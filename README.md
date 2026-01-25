@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Finbar Kizito.
+- 👋 Hi, I’m Finbar Emmanuel Kizito.
 - I’m a Design Engineer with a background in Structural Engineering, currently working in London.
 - I focus on three main topics; engineering, data analytics, and storytelling through data modelling.
 - I’m actively developing end-to-end data analytics and data engineering projects, including BI reporting.
