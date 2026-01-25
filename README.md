@@ -6,6 +6,6 @@
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/finbarkizito/), read my work on [Medium](https://medium.com/@emmanuelkizito8), and explore my dashboards on [Tableau Public](https://public.tableau.com/app/profile/finbar.kizito/vizzes).
 
 <!---
-This repository is a special GitHub profile repository.
+This repository is a special GitHub profile repository that is pinned
 The README.md file appears directly on the profile page.
 --->
