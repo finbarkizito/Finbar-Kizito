@@ -7,6 +7,6 @@
 
 <!---
 This repository is a special GitHub profile repository that is pinned
-The README.md file appears directly on the profile page.
+The README.md file appears directly on the profile page and is public.
 , read my work on [Medium](https://medium.com/@emmanuelkizito8),
 --->
